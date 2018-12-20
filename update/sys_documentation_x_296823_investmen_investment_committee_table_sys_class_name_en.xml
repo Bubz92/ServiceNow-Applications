@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="sys_class_name" label="Class" language="en" table="x_296823_investmen_investment_committee_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>sys_class_name</element>
+            <help/>
+            <hint/>
+            <label>Class</label>
+            <language>en</language>
+            <name>x_296823_investmen_investment_committee_table</name>
+            <plural>Class</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-07 08:22:19</sys_created_on>
+            <sys_id>bbb870a4dbda23006e8afbef29961999</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Class</sys_name>
+            <sys_package display_value="Investment Committee" source="x_296823_investmen">6bb8f8e0db9623006e8afbef299619e2</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Investment Committee">6bb8f8e0db9623006e8afbef299619e2</sys_scope>
+            <sys_update_name>sys_documentation_x_296823_investmen_investment_committee_table_sys_class_name_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-07 08:22:19</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
